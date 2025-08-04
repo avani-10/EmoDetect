@@ -1,0 +1,22 @@
+# EmoDetect 🎭  
+An Emotion Detection System using Facial Expression and Speech Analysis
+
+## 🚀 Project Overview
+
+**EmoDetect** is a smart emotion recognition system that uses both **facial expressions** and **speech tone** to identify human emotions like *happy, sad, angry, surprised*, and more.  
+It combines **deep learning models** with a **Tkinter GUI interface**, making it user-friendly and visually interactive.
+
+---
+
+## 🧠 Features
+
+- 🎤 **Speech Emotion Recognition** (via MFCC + CNN)
+- 😊 **Facial Emotion Recognition** (via Haarcascade + CNN)
+- 🖥️ **Graphical User Interface** using Tkinter
+- 📊 Live emotion output with accuracy feedback
+- 📁 Lightweight & easily extendable
+
+---
+
+## 🔧 Project Structure
+
