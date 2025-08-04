@@ -17,6 +17,28 @@ It combines **deep learning models** with a **Tkinter GUI interface**, making it
 - 📁 Lightweight & easily extendable
 
 ---
+## 🛠 Requirements
+
+
+
+```bash
+pip install opencv-python
+pip install numpy
+pip install Pillow
+pip install tensorflow
+pip install keras
+
+```bash
+python -m venv venv
+venv\Scripts\activate     # For Windows
+pip install notebook
+
+### 4️⃣ Run the GUI Application
+
+Run the main Python file using the terminal or VS Code:
+
+```bash
+python EmoSense_GUI.py
 
 
 
