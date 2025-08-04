@@ -18,5 +18,5 @@ It combines **deep learning models** with a **Tkinter GUI interface**, making it
 
 ---
 
-## 🔧 Project Structure
+
 
