@@ -33,7 +33,10 @@ python -m venv venv
 venv\Scripts\activate     # For Windows
 pip install notebook
 
+--
 ### 4️⃣ Run the GUI Application
+
+
 
 Run the main Python file using the terminal or VS Code:
 
